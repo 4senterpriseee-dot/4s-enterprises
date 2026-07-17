@@ -31,7 +31,6 @@ const Dashboard = () => {
     };
 
     loadProducts();
-
     return () => {
       isMounted = false;
     };
