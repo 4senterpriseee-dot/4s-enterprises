@@ -51,7 +51,6 @@ const Dashboard = () => {
                   Manage and review your listed items
                 </p>
               </div>
-
               <Button
                 onClick={() => navigate(CREATE_PRODUCT_PATH)}
                 className="bg-[var(--primary-btn)] text-[var(--card)] hover:bg-[var(--primary-hover)]"
